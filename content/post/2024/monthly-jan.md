@@ -19,12 +19,11 @@ tags: ["Monthly journal", "Journal"]
 ### The Meaning of Social
 
 
-I have never been a social person. Parties and social gatherings are rarely enjoyable for me, and I struggle to connect with others in those settings.
+I have never been a social person, parties and social gatherings are rarely enjoyable for me, and I struggle to connect with others in those settings.
 
-As I've grown older, I've come to realize the importance of breaking out of my friend/work cycle. It's become clear to me that staying in this routine can be limiting, especially when I'm not satisfied with my current situation (which is often the case).
+As I've grown older, I've come to realize the importance of getting out of my friend/work bubble sometimes. It's become clear to me that staying in this routine can be very limiting, especially when I'm not satisfied with my current situation (which happens all the time 😏).
 
-
-I find it both engaging and productive to join hobby-based meetups, whether online or offline. I especially enjoy events with a specific theme or topic, as it gives me the opportunity to do some research beforehand. However, I must admit that I often don't have time to do so. Unlike generic social events, hobby-based meetups allow us to connect with others who share same passions or interests. Unfortunately, my hobbies, such as Bitcoin and the stock market, are not always relatable to others.
+I find it engaging and productive to join hobby or value based meetups, whether online or offline. I especially enjoy events with a specific theme or topic, as it gives me the time to do some research/prep beforehand, and I rarely do 🙂. Unlike generic social events, hobby-based meetups allow us to connect with others who share same passions or interests. Unfortunately, my hobbies, such as Bitcoin, stock market and Stoicism, are not very popular options.
 
 <!-- * How to read a book  -->
 <!--   * Emotional engaged  -->
@@ -32,58 +31,73 @@ I find it both engaging and productive to join hobby-based meetups, whether onli
 
 ### Active vs passive learning 
 
+![Poor Charlie's Almanac](https://pub-d12326d6dec844d18197aa640f372de8.r2.dev/poor-charlie.jpg)
+
 I have been reading "Poor Charlie's Almanac" this month, all thanks to the MoneyXYZ online book club. Without the public accountability and discussion opportunity, I would not have been able to dedicate such diligent time to reading it.
 
-I realized the concept difference between  "Active and Passive learning", when we listen to podcast or watch Youtube video, it's relaxing and we can just follow the lead of the author's thinking journey. 
+I realized the concept difference between  "Active and Passive learning", when we listen to podcast or watch Youtube video, it's relaxing and we can just follow the lead of the speaker.
 
-However, when we actively engage in learning, we are actively participating and taking an active role in the learning process. This can involve asking questions, discussing with others, and actively seeking out information and resources to deepen our understanding.
+However, When we actively learn, we actively participate and take an active role in the process, such as pause and thinking, research online, check back and forth etc, I think that's very needed for learning anything. And that's why passively learning isn't very effective. One can argue, you can always pause and rewind the video/audio as you like, but I rarely do, nor do I think many people do.
 
-In passive learning, we are more of a passive recipient of information, whereas in active learning, we are actively seeking out and processing information to actively learn and understand.
+Another issue with this approach is that it assumes that everyone learns at the same pace and in the same way. However, individuals have different learning styles and may struggle with certain concepts while finding others easy. It is crucial to have the flexibility to adjust the pace of learning and skip over content that is already understood. This allows for a more personalized and effective learning experience.
 
-But it's not very efficient, as it's a one-size-fits-all approach. We all learn very differently for various reasons, some concepts might be easy for some people but hard to others, and vice versa. It's very important to take a pause and take notes in learning, and most importantly, learning requires getting back and regurgitate the content(at least for most people). You can argue most of media content we consume on-demand, we can pause and rewind, but to be honest, I don't think most people do it. Comparing with reading, we do it all the time. 
+I need to cut down on my media intake and return to traditional methods of learning. 🤔
 
-On the other hand, passive learning can be a good way to relax and unwind, but it may not lead to the same level of understanding and retention as active learning.
 
 ## What's Happened 
 
-This month, I experienced a major scare that left me feeling devastated and in disbelief. During my annual checkup, I received some concerning results that left me reeling. In a panic, I immediately reached out to my primary care provider and requested another test. To my relief, the results were completely different.
+Last month, I went through a terrifying experience that left me feeling shattered and bewildered. During my annual routine checkup, I received alarming results that shook me to my core. In a state of panic, I urgently contacted my primary care provider and asked a follow-up test. Thankfully, the results were completely different and put my mind at ease.
 
-In hindsight, I realize that scheduling my appointment right after the Christmas party was not the best idea. I could have easily rescheduled, but I chose to consult with my doctor instead. Her advice to "just not eat too many sweets" seemed simple enough, but I should have been more cautious during this important yearly examination. Lesson learned!
+Looking back, I realize that booking my appointment immediately after the Christmas party was a foolish decision. I could have easily rescheduled, but I opted to ask my doctor for guidance. Despite her simple advice of "just limiting sweets," I should have been more mindful during this crucial annual check-up. A valuable lesson learned.
 
 ![Lipid test 1](https://pub-d12326d6dec844d18197aa640f372de8.r2.dev/first-lipid.png)
 ![Lipid test 2](https://pub-d12326d6dec844d18197aa640f372de8.r2.dev/2nd-lipid.png)
 
 ## Year of Visualization  
 
-After years of knowing about it, I have finally decided to pick up [Mermaid](https://mermaid.js.org/intro/). I am determined to take it seriously this time. I am drawn to the concept of having complete control over my plain text source files and being able to render it in remote host. 
+I've been aware of [Mermaid](https://mermaid.js.org/intro/) for quite some time, but I've finally made the decision to dive in. I'm committed to giving it my full attention. The concept of having complete control over source files in plain text, and being able to easily render them in a readable format, is what draws me to this tool.
+
+
 
 ## Delight 
 
 ### [Reader](https://readwise.io/read) 
 
-After hearing countless praises for Reader, I decided to give it a try as I'm already a paid user of Readwise(They're from the same company). I was blown away by its excellent UI/UX design, shortcuts oriented design, and multiple functions. I am absolutely in love with it!
-
-But the best part is that I am now free from the overwhelming amount of email newsletters. While I enjoy reading them, I often struggle to find the time to read them all. It was a constant source of stress for me, and I would often just mark them as "Read" without actually reading/skimming them. Reader has been a lifesaver for me, and I am grateful to have found it.
-
-### LazyVim 
-I have been using Vim for almost a decade(Vim and Neovim), as a self-professed Vim power user, I actually don't see much difference from them. But moving to Lazyvim is big deal, even though everything is still vim based, but it's highly pre-configured, it's like a betrayal to the community spirit. But I have to face it, I don't have time to configure everything myself, the last decade I didn't finish it, as I get busier and busier, I need to preserve my time.      
-
-I have been a dedicated Vim user for nearly a decade, utilizing both Vim and Neovim. As a self-proclaimed Vim power user, I have not noticed much difference between the two. However, transitioning to Lazyvim is a significant change. While it is still based on Vim, it comes highly pre-configured, which can feel like a betrayal to the community spirit. Nevertheless, I have come to terms with the fact that I simply do not have the time to configure everything myself. Despite my best efforts over the past decade, I have not been able to complete the task. As my schedule becomes increasingly busy, I must prioritize my time and Lazyvim allows me to do just that.
+After hearing endless praises for Reader, I couldn't resist giving it a go, especially since I'm already a satisfied user of Readwise (which is from the same company). And let me tell you, I was not disappointed. The sleek UI/UX design, shortcut-focused layout, and plethora of features left me completely impressed. I am completely in love with this tool! Hopefully I could read more going forward. 
 
 
+But the best part is that I am now free from the endless email newsletters. While I enjoy reading them, I often struggle to find the time to read them. It was a constant source of stress for me, and I would often just mark them as "Read" without actually reading/skimming them. Reader has been a lifesaver for me, and I am grateful to have found it.
+
+The best part? I'm finally free from the never-ending email newsletters. Don't get me wrong, I love reading them, but finding the time was always a struggle. It caused me so much stress, and I would often just mark them as "Read" without actually reading them. But thanks to Reader, that's all changed. It's been a lifesaver for me, my emails for emails, and all readings to Reader. I am grateful of having it.
+
+### [LazyVim](https://www.lazyvim.org/) 
+
+Switching to Lazyvim is a major decision. Although it is built on Vim, it comes with extensive pre-configurations and plugins, which may be seen as a betrayal to the DIY community.
+
+Nevertheless, I have come to terms with the fact that I simply do not have the time to configure everything myself(I would never finish configuring my Vimrc). As my schedule becomes increasingly busy, I must prioritize my time and Lazyvim allows me to do just that.
+
+I've come to terms with the fact that I simply don't have the time to personally configure everything, including my Vimrc. As my schedule becomes increasingly demanding, I must prioritize my time wisely. Fortunately, Lazyvim has given me the flexibility to easily configure and customize on top of the community suggestions.
 
 
-### Study music list
-Inspired by Ali's study with me music list, I decided to create one on my own, it's so easy and rewarding to listen my favorite non-lyric music while working or studying, I kick myself for not starting it earlier. 
+### [Study Music List](https://music.youtube.com/playlist?list=PLCXhWW4WAvDjO8FWjquvhH05-XxHONU7x&si=7sle9KbZO2IP-tUv)
+
+Inspired by [Ali's study with me music list](https://open.spotify.com/playlist/5acGzAC0OH4QDVj5hlFqlK?uid=b9f50d2b6b3649a3&uri=spotify%3Atrack%3A64eRZGAmZQFxFQQq1z3aV2), I enjoyed some episodes but not all of them, so I decided to create one on my own. 
+
+Listening to my favorite thematic music while working or studying is incredibly rewarding. as always, I kick myself for not starting it earlier. 
 
 ## Struggle 
 
 ### Cheap Dopamine 
-I spent way more time online in all kinds of social media, and I constantly kick myself at night that I was wasting time on them, I know I can do better. 
 
-It's a habit I got for more than a decade, it's not easy to change. I realized when I was in college that my then time girlfriend she can stay away from phone for hours without noticing, and I have the habit of keeping myself available, and actually rarely anyone care, I need to change. 
+
+I regret spending too much time on social media and group chats on daily basis. It's a daily struggle for me.
+
+I struggle with breaking this habit because it's been a part of me for so long. It wasn't until college when my girlfriend at the time could go hours without checking her phone that I realized I had a problem. I've always made myself readily available for calls and texts, even though I'm not some important figure. I should do better. 
+
 
 ### Neck Pain 
-The neck pain still bothers me on weekly basis(if not daily), I'm glad I've found numerous neck stretch exercise, I just need to keep doing it every day, prob 10 mins a day, it's not that hard, I can do it.  
+
+I continue to struggle with neck pain, which can occur on a weekly or even daily basis. Fortunately, I have discovered some effective neck stretches that have been helpful. I am committed to incorporating these exercises into my daily routine, aiming for 10 minutes each day. I should be able to conquer it. ✊
+
 
 

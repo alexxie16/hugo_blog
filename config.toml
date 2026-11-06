@@ -17,7 +17,7 @@ ignoreErrors = ["error-output-taxonomy"]
   avatar = "avatar.jpg"
   favicon = "favicon.ico"
   description = """
-This is my personal blog where I collect and make sense of my thoughts, it also allows me to practice my English writing skills. It's a great way to kill two birds with one stone! 😄
+Welcome to my personal blog! Here, I gather and organize my thoughts while also honing my English writing skills. If you happen to come across any grammatical errors or have suggestions for better word choices, please don't hesitate to let me know. Your feedback is greatly appreciated. 💖
   """
   publicationYear = "2024"
 

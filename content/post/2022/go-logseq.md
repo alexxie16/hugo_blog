@@ -1,76 +1,81 @@
 ---
-title: "Go Logseq: Build my 2nd brain"
+title: "Go Logseq: Build My 2nd Brain"
 date: 2022-08-22
 draft: false
 tags: ["Personal knowledge management", "Logseq"]
 ---
 
-<!-- ![logseq logo](https://pub-d12326d6dec844d18197aa640f372de8.r2.dev/logseq.png) -->
-
-## What' my main drive
-
-I started jotting down my notes digitally and plain text base for a while long time, I just wanted it simple, then one work.md and day.md started bloating, naturally I divide them into separate files for different purpose, e.g. "stock-trading-record", "vim/tmux cheatsheet", "linux common commands" etc, then I've got too many files and I often ended with lots similar and overlaps files. 
-
-Folder, file  
-
-effortless input, efficient retrieval 
+<img src="https://pub-d12326d6dec844d18197aa640f372de8.r2.dev/logseq-logo.jpeg" width="400" height="400">
 
 
-I have been using local plain text files (Markdown) + Cloud storage for years, over time, I started feeling losing control of how I manage it. There are a handful of issues. 
+## Table of Content 
+- **[Motivation](#motivation)**  
+- **[What I Like in Logseq](#what-i-like-about-logseq)**  
+- **[Reference](#reference)**  
+- **[To Be Explored](#to-be-explored)**  
+
+## Motivation 
 
 ### Too many files 
-I try to make each note file recording one thing and one thing only, so I could manage them relative easily. Over time, the root directory has got 10+ files, I realized I need to put them into different folders, I started adding more and more. E.g. `Info/cheatsheet`, `Info/cheatsheet/vim`, `info/cheatsheet/tmux`, `info/reading-thoughts`, `learn/toastmasters`, `learn/docker`, `strategy/career-roadmap`, `work/work.md` etc etc. 
+For years, I have relied on typing my notes and thoughts on my laptop in plain text. The convenience of not having to carry physical paper and the ease of searching through my notes were the main reasons for this. However, as time passed, my notes became cluttered and difficult to manage(still way better than physical notebook), despite my efforts to organize them by year and month.
 
-These comes two issues, one is I often have hard time to choose which content should I put into which file, for example, I got some thoughts about investing psychology, should I put into `learning/investing.md` or `xxxx/psychology`, I drains my energy to decide which is the best destiny for the fleeting thought. 
+### Folders, hierarchy and References
 
-Another issue is after I've got 30+ files I often forgot their existence, I ended up creating similar but duplicated/overlaps files. I tried to put all file reference in README.md and it gets back to the first issue, some files are not belong to specific folder or there are some overlaps, it makes me reluctant to organize it.   
+I strive to keep each note file focused on one specific topic, making them easy to identify and search. However, as my root directory has grown to include 10+ files, I have had to organize them into folders. For example, `Info/cheatsheet/vim`, `info/cheatsheet/tmux`, `info/reading-thoughts`, `learn/toastmasters`, `learn/docker`, `work/work.md`, etc.
 
-### Hard to find my resources 
+This has presented two challenges. Firstly, I often struggle to determine which folder a particular piece of content should go in. For instance, if I have thoughts about investing psychology, should I put them in `learning/investing.md` or `xxxx/psychology`? This decision-making process can be draining and time-consuming.
 
-## What I'm excited about Logseq 
+Secondly, as my collection has grown to over 30 files, I sometimes forget about certain files and end up creating duplicates or overlapping files. While I have tried to reference all files in my `README.md`, this brings me back to the first issue of deciding on the best destination for a particular thought. 
 
-### Local first & non intrusive
-I really appreciate Logseq doesn't mess with my local files, instead it creates its own database to reference my local files, and create tags file in its own folder, it's delicate and elegant. I can continue using Git to do source control, it makes me feel so safe, I have commits for each milestones, as long as `.git` exists, I'd not lose any content and content change history.  
-
-I can still use Vim as main editor to write everything, and delegate Logseq to manage tagging and references. 
-
-## No files, no folders, everything is block
-
-No files/folders, no hustle, everything relationship management hands off to logseq(it's tags and database), that's awesome! 
-
-search tags/blocks is way esier than files. 
-
-## Tags and Bi-directional links 
-
-I've always know I love tags, I loved tags in Evernote, and I hated it I can't find an easy way to have tags in Notion. Logseq makes reference tags and creating tags easy and immersive, because there is no "file", I can make tags 
-
-the auto-completion of tags, links are amazing, I didn't know I love it so much until I use it. I have always been bothered to other files (again, files suck), but the effortless reference really connected my knowledge map.  
-
-the reverse reference is amazing, mind opening. In a hindsight, this is what it should be for a knowledge management.   
-
-Whenever I write a block, I give it a tag, I can see myself reference it later in future in an accumulated page, that's a very good feeling and positive feedback to push me write more. 
-
-## Graph View, see big picture
+Furthermore, I often rearrange my files into different folders, unknowingly breaking lots the reference links. This becomes a major inconvenience when I am away from my computer and trying to access them from my mobile devices. It's quite frustrating.
 
 
-## Go back/forward 
-This is a small little feature comparing others, but I like it so much. CMD-[ / CMD-] to go back and forth the pages you've browsed, I use it 100+ times a day, it makes mindless browsing so easy. 
+![folders-example](https://pub-d12326d6dec844d18197aa640f372de8.r2.dev/logseq-kill-folders.png)
 
 
-### Open source first, vibrant community 
-I haven't really get myself involved in any open source project but as a consumer of lots of them. But I can see myself would get envolved in the future. Especially when the organizer's ideas drifting away from mine, I have the last resort to fork the source code and keep and maintain what direction I think is right. 
+## What I like about Logseq 
 
-bonus point, the company develop & maintain the tool is a Chinese company but choosing English first and global first, I really like it and admire their spirit. 
+### Local first & Non-intrusive
 
-## In the end 
+I love that Logseq respects my note files and creates its own database, config, and tag files in a separate folder. This way, I can continue using Git for source control and have peace of mind knowing that not only do I have my files, but also all the changing history stays in `.git`. It allows me to sleep well at night.
 
-I have 4 personal repos (notes, blog, Journal, English), I'm starting to merge notes and journals to one repo and see how it goes. For a long time, I questioned myself that I journal almost everyday, but I almost never looked back, it's kinda pointless, I hope by taking advantage of the bi-directional links from logseq, it would let me travel back my history moments effortlessly.  
+Moreover, I can still use my favorite editor, Vim, to write everything. Logseq simply helps me manage tags and references.
+
+
+## Block, Tags and Bi-directional Link 
+
+Logseq has a unique feature where everything is a block, whether it's a paragraph or a file. This eliminates the struggle of deciding where to place my quick notes. I can simply add them anywhere and tag them for easy organization. As someone who loves tags, I appreciate that I can add multiple tags to not only files but also blocks. This is truly amazing.
+
+Now, whenever I write something, whether it's a sentence or a paragraph, I try to give it a tag. This allows me to easily reference it in the future on an aggregated page. It's a great feeling and serves as positive reinforcement to keep writing.
+
+On a side note, one of the reasons I don't use Notion is because it lacks tag support. It is a non-negotiable for me. 
+
+
+The bi-directional link is truly remarkable! Just take a look at the example below. In retrospect, this is exactly what is needed for effective knowledge management. It allows us to easily zoom in and out as needed.
+
+![bi-directional example](https://pub-d12326d6dec844d18197aa640f372de8.r2.dev/logsesq-example-visa.png)
+
+
+### Open Source 
+
+I haven't had the opportunity to participate in any open source project yet, but I have been a consumer of many. I can definitely see myself getting involved in the future. If I find that the project's direction differs from my own vision, I have the option to fork the source code and maintain it according to my vision.
+
+
+## In The End 
+
+I also appreciate the company behind the tool is from China, yet they choose to prioritize in English, and global first, I love the spirit. 💖
+
+I am still quite a novice when it comes to using Logseq. There are tons more features for me to explore and adopt. I am looking forward to continue learning and incorporating them into my workflow.
 
 
 ## Reference 
-* https://www.youtube.com/watch?v=oBtKHwFBn0k
+* [Logseq beginner's course (1/8)](https://www.youtube.com/watch?v=oBtKHwFBn0k)
+* [Official Document](https://docs.logseq.com/#/page/contents)
 
-* Beyond primitives 
-  * derivates, so much fun and potential
-  * Schedule
+### To be explored 
+* Work along with Obsidian  
+* Graph View 
+* Extensions 
+* Public Sharing 
+
 
