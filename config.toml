@@ -36,7 +36,7 @@ Welcome to my personal blog! Here, I gather and organize my thoughts while also 
   identifier = "twitter"
   name = "Twitter"
   pre = "<i class='fab fa-twitter fa-lg'></i>"
-  url = "https://twitter.com/realalexxie"
+  url = "https://x.com/realalexxie"
   weight = 20
 
 [[menu.main]]
