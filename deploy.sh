@@ -11,6 +11,10 @@ hugo -t pulp
 # Go To Public folder
 cd public
 
+# Make sure we're on the master branch (a submodule may sit on a detached HEAD,
+# which would make the commit below invisible to `git push origin master`)
+git checkout -f master 2>/dev/null || git checkout -f -B master origin/master
+
 # Add changes to git.
 git add .
 
