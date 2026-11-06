@@ -1,5 +1,5 @@
 baseURL = "https://xieweialex.github.io/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Alex's personal blog"
 theme = "pulp"
 canonifyurls = true
@@ -11,15 +11,15 @@ ignoreErrors = ["error-output-taxonomy"]
 
 [params]
   author = "Alex Xie"
-  github = "xieweiAlex"
-  twitter = "xiewei_alex"
+  github = "alexxie16"
+  twitter = "realalexxie"
   email = "alex.xie2016@gmail.com"
   avatar = "avatar.jpg"
   favicon = "favicon.ico"
   description = """
 Welcome to my personal blog! Here, I gather and organize my thoughts while also honing my English writing skills. If you happen to come across any grammatical errors or have suggestions for better word choices, please don't hesitate to let me know. Your feedback is greatly appreciated. 💖
   """
-  publicationYear = "2024"
+  publicationYear = "2026"
 
 [outputs]
   section = ["JSON", "HTML"]
