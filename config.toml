@@ -36,14 +36,14 @@ Welcome to my personal blog! Here, I gather and organize my thoughts while also 
   identifier = "twitter"
   name = "Twitter"
   pre = "<i class='fab fa-twitter fa-lg'></i>"
-  url = "https://twitter.com/xiewei_alex"
+  url = "https://twitter.com/realalexxie"
   weight = 20
 
 [[menu.main]]
   identifier = "github"
   name = "GitHub"
   pre = "<i class='fab fa-github fa-lg'></i>"
-  url = "https://github.com/xieweiAlex"
+  url = "https://github.com/alexxie16"
   weight = 30
 
 [[menu.main]]
