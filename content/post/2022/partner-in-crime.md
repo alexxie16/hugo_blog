@@ -1,5 +1,5 @@
 ---
-title: "Looking for a long-term partner "
+title: "Looking for a Long-Term Partner"
 date: 2022-12-29
 draft: false
 tags: [ "relationship", "looking" ]
@@ -7,31 +7,31 @@ tags: [ "relationship", "looking" ]
 
 ![Love Heart](https://pub-d12326d6dec844d18197aa640f372de8.r2.dev/love-heart.jpg)
 
-# How it started 
+# How it started
 
-As I've grown older (30+), I find myself spending more and more time alone. While I value my independence and peacefulness, I can't help but feel a need to get a partner in crime to share my life with. The feeling of loneliness has started to creep in, and I'm ready to find someone to settle if possible.
+As I've grown older (30+), I find myself spending more and more time alone. While I value my independence and peacefulness, I can't help but feel the need for a partner in crime to share my life with. Loneliness has started to creep in, and I'm ready to find someone to settle down with, if possible.
 
-So I asked around in my friend circle, I often get asked the same question, "what kind of partner are you searching for?" It frustrates me when I can't lay out my thoughts straight, and it's very inefficent. So I figured I could write them down, since there is nothing secretive about. 
+So I asked around in my friend circle, and I kept getting the same question: "What kind of partner are you looking for?" I could never lay out my thoughts straight, which frustrated me. So I figured I'd write them down — there's nothing secretive about it.
 
-Basically I'm looking for a girl who is similar to me, who shares similar value and lifestyle, I believe that's what makes a relationship successful.   
+Basically, I'm looking for a woman similar to me — someone who shares my values and lifestyle. I believe that's what makes a relationship work.
 
-# Values I look for 
+# Values I look for
 
-### Positive Vibes 
+### Positive Vibes
 
-I am a naturally optimistic and happy person, and I value it. And I have also worked hard for it.
+I'm a naturally optimistic, happy person — and I value that. I've also worked hard for it.
 
-I find it challenging to work or live with pessimistic/negative people. While I do understand people could have concerns, complaints, trauma etc, but they have to be contained in my view.   
+I find it challenging to work or live with pessimistic, negative people. I understand people have concerns, complaints, trauma — but in my view, they have to be kept in check.
 
-Don't get me wrong, I do my fair share of venting often, but I am actively trying to improve and be more positive all the time.
+Don't get me wrong, I do my fair share of venting. But I'm actively trying to improve and stay positive.
 
-### Receptive / Open-minded / learn and change 
+### Receptive / Open-minded / Willing to Change
 
-I came from a country on the other side of the Pacific Ocean. While I have a deep appreciation for American and Western culture, I cannot deny that my Asian roots in my heart. Ideally, I would love to find someone who shares a similar background or interested in Asian culture.
+I came from a country on the other side of the Pacific. While I deeply appreciate American and Western culture, I can't deny my Asian roots — they're still in my heart. Ideally, I'd love to find someone who shares a similar background or is interested in Asian culture.
 
-PS. I would like to write an article discussing the differences between Asian culture and American culture.
+PS. I'd like to write an article about the differences between Asian and American culture.
 
-I'm quite curious and open-minded most of time, feeling excited to learn new things and expand my knowledge sphere. It would be a pain for both us if you want to stay "rest and vest". 
+I'm curious and open-minded most of the time, and I love learning new things. It would be a pain for both of us if you'd rather "rest and vest" (coast).
 
 
 <!-- I am particularly interested in topics related to productivity and self-improvement, constantly seeking ways to enhance my personal growth. -->
@@ -43,51 +43,50 @@ I'm quite curious and open-minded most of time, feeling excited to learn new thi
 <!-- For instance, I have always eaten white rice, but I have recently cut it out of my diet in an effort to reduce carbs intake (except when eating out with others). I also do not eat breakfast, as I follow a 16:8 intermittent fasting schedule (contrary to the belief that breakfast is the most important meal of the day). These are just a few examples of how I incorporate my learning into my daily routine. -->
 
 
-### Supportive / Empathetic / Feminine trait
+### Supportive / Empathetic / Feminine
 
-Despite not being a Feeler(In MBTI's parlance), I believe my upbringing has made me less attuned to emotions. However, I highly value female who are caring, supportive, and empathetic. Smart, ambition, and being strong are not very necessary trait for me, as I am happy to take on the traditional masculine role of responsibility. 
+I'm not a Feeler (in MBTI parlance) — my upbringing has made me less attuned to emotions. But I highly value women who are caring, supportive, and empathetic. Intelligence, ambition, and strength aren't must-haves for me; I'm happy to take on the traditional masculine role of responsibility.
 
-I do not consider myself a macho person by the way, I'm a mild feminist.
+I don't consider myself a macho person, by the way — I'm a mild feminist.
 
-# Lifestyles I look for 
+# Lifestyles I look for
 
-### Intuition 
+### Intuition
 
-In MBTI's parlance again: I am an "Ni" (Introverted Intuitive) person, meaning I am naturally drawn to abstract things/concepts rather than tangible objects.
+In MBTI parlance again: I'm an "Ni" (Introverted Intuitive) person, naturally drawn to abstract concepts rather than tangible things.
 
-For example, my typical table topics often centered around like macro/micro economy, technology, business, personal growth, and psychology. I tend to overlook discussions about material possessions/obsessions or sensory experiences, such as fine dining, sightseeing, beauty, partying etc.
+For example, my typical table topics center on macro/micro economics, technology, business, personal growth, and psychology. I tend to skip discussions about material possessions or sensory experiences — fine dining, sightseeing, partying, and the like.
 
-Bringing this up not to put it as a requirement but to seek understanding, I know lots of people are not like me, and I understand. I hope my partner understands my interest as well.
+I'm not listing this as a requirement, just seeking understanding. I know plenty of people aren't like me, and that's fine. I only hope my partner understands my interests the same way.
 
-### Emotional Stability  
+### Emotional Stability
 
-I am happy to say that I am quite emotional stable and I place a high value on it. It is disheartening for me to see people who struggle with their emotions. 
+I'm happy to say I'm quite emotionally stable, and I place a high value on it. It's disheartening to see people struggle with their emotions.
 
-I find solace in learning Stoicism(an ancient Greek philosophy). As Nasim Taleb eloquently stated, Stoicism is “the domestication of emotions, not their elimination.”
+I find solace in Stoicism (an ancient Greek philosophy). As Nassim Taleb put it, Stoicism is "the domestication of emotions, not their elimination."
 
-Maintaining a consistent light mood is critically important for me. I understand that it may not be easy for everyone, myself included, to achieve this consistently. Let's work together to improve on this aspect.
+Keeping a consistently light mood is important to me. I understand that isn't easy for anyone, myself included. Let's work on that together.
 
-### Money 
+### Money
 
-I have always been known for my frugal lifestyle, I often joke about it that my spending habits are more inline with a new grad. But for me, it's a conscious choice. I have very little interest in material possessions and I do prioritize saving money. As long as it doesn't affect my health or consume too much of my time.
+I've always been known for my frugal lifestyle — I joke that my spending is more in line with a new grad's. For me, it's a conscious choice: I have little interest in material possessions, and I prioritize saving money as long as it doesn't hurt my health or eat up my time.
 
-I may not be fond of people who constantly seek out a lavish lifestyle. While I understand the occasional desire to indulge in worldly pleasures, I believe it should be done consciously and in moderation.
+I'm not fond of people who constantly chase a lavish lifestyle. The occasional indulgence is fine — it just should be conscious and moderate.
 
-I strongly believe in the power of investing and currently have a significant portion of my portfolio allocated to high-risk assets such as stocks and crypto(Bitcoin). However, as I continue to grow and diversify my investments, I plan to gradually shift towards more stable assets like Real Estate and bonds. It's important to me that my partner shares a similar mindset and is not too much afraid to take calculated risks.
+I strongly believe in investing: a big chunk of my portfolio is in high-risk assets like stocks and crypto (Bitcoin). As I grow and diversify, I plan to shift toward more stable assets like real estate and bonds. It's important that my partner shares this mindset and isn't too afraid of calculated risks.
 
-### Active, Energy (Physically and mentally) 
+### Active (Physically and Mentally)
 
-I am passionate about staying active both physically and mentally. I am looking for a partner who also values physical activity and would be open to joining me in activities such as hiking, jogging, swimming, kayaking etc, and more during our free time.
+I'm passionate about staying active, both physically and mentally. I'm looking for a partner who also values physical activity and would join me for hiking, jogging, swimming, kayaking, and more in our free time.
 
-I am also enthusiastic about continuous learning and broadening my understanding. Whether it's delving into new concepts, experimenting with different techniques, or trying out new recipes, I am constantly seeking ways to expand my knowledge. I take great pleasure in sharing my findings with my partner and am always eager to see their response.
+I'm equally enthusiastic about continuous learning — new concepts, new techniques, new recipes. I love sharing what I've learned and hearing my partner's reaction.
 
 <!-- ### Energy matches  -->
 
 ## Physical Appearance
 
-I'm not a saint, I'm also attracted to good-looking girls. However, I've come to understand that physical appearance isn't a very important factor in a relationship(Of course it's nice to be photogenic). What truly matters is compatibility in terms of personality, values, and lifestyle match.
+I'm not a saint — I'm attracted to good-looking women too. But I've come to understand that physical appearance isn't the most important factor in a relationship (though being photogenic certainly doesn't hurt). What truly matters is compatibility of personality, values, and lifestyle.
 
-## In the end 
+## In the end
 
-There you have it! These are the things I can think of for a successful relationship for me. Of course, the list is not exhaustive, but we can start from here.
-
+There you have it — these are the things I can think of for a successful relationship. It's not an exhaustive list, but it's a start.
